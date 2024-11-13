@@ -2,7 +2,8 @@
 
 ## Counter App
 ![Screenshot 2024-11-12 234441](https://github.com/user-attachments/assets/acd71fac-ce06-4371-bb21-fca7da715b29)
-  ![Screenshot 2024-11-12 235056](https://github.com/user-attachments/assets/72c63524-1cdd-411c-a141-de62728d0826) 
+  ![Screenshot 2024-11-12 235056](https://github.com/user-attachments/assets/72c63524-1cdd-411c-a141-de62728d0826)  ![Screenshot 2024-11-13 104016](https://github.com/user-attachments/assets/7282a070-b612-49d3-91d0-26fdcfde4f0b)
+
 
 ## Generator Word
 ![Screenshot 2024-11-12 234544](https://github.com/user-attachments/assets/843ad41d-1dff-491e-93e0-4fb57959fd87)
